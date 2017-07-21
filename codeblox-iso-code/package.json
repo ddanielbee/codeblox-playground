@@ -1,0 +1,16 @@
+{
+  "name": "codeblox-iso-code",
+  "version": "1.0.0",
+  "description": "Codeblox for iso code from country name",
+  "main": "codeblox.js",
+  "dependencies": {
+    "codeblox": "0.0.5",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Bolivar <daniel.bolivar@icloud.com>",
+  "license": "ISC"
+}
