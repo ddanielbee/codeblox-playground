@@ -1,0 +1,13 @@
+{
+  "name": "codeblox-iso-code",
+  "version": "1.0.0",
+  "description": "Get an ISO code out of a country's name (in english)",
+  "directions": "Country name",
+  "repository": "",
+  "keywords": [
+    "iso",
+    "country"
+  ],
+  "input": "text",
+  "output": "text"
+}
